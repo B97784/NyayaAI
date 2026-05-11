@@ -112,3 +112,14 @@ For any inquiries or feedback, please contact:
 Assistant Professor (Senior Scale)
 School of Computer Science, UPES, Dehradun, India
 **Email:** sahinurlaskar.nits@gmail.com / sahinur.laskar@ddn.upes.ac.in
+
+## Citation
+@misc{nyayaai2026,
+  title={NyayaAI: An AI-Powered Legal Assistant Using Multi-Agent Architecture and Retrieval-Augmented Generation},
+  author={Deepanshu Miglani and Divi Saxena and Deepali Rana and Ayesha Varshney and Sahinur Rahman Laskar},
+  year={2026},
+  eprint={7577341},
+  archivePrefix={arXiv},
+  primaryClass={cs.CL},
+  url={https://arxiv.org/}
+}
