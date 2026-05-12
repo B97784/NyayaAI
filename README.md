@@ -121,5 +121,5 @@ School of Computer Science, UPES, Dehradun, India
   eprint={7577341},
   archivePrefix={arXiv},
   primaryClass={cs.CL},
-  url={https://arxiv.org/abs/2605.10155}
+  url={https://arxiv.org/abs/2605.10155
 }
